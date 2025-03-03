@@ -5,3 +5,5 @@ Modifing another time file1.txt
 =======
 Here we are modifing the file1.txt in the feature-A
 From the  feature-A
+Here we are modifing the file1.txt after using pull command and also by using them after making changes in github
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C in master 
